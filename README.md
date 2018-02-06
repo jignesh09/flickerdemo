@@ -1,7 +1,7 @@
-# flickr-react-app
+# flickrdemo
 Flickr App based on ReactJs/Redux
 
-Live Demo is here - https://floating-fortress-31307.herokuapp.com/
+Live Demo is here - https://stark-shelf-45470.herokuapp.com/
 
 ## Objective
 Implement a simple web front-end using React and Redux to search and display images from the flickr public API.
